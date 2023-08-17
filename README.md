@@ -21,4 +21,4 @@ Get more via [Linguix Grammar Checker](https://linguix.com/grammar-check) and do
 
 # Jobs
 
-Interested in joining Linguix team? [Get in touch!](hhttps://www.linkedin.com/in/morganmsk/)
+Interested in joining Linguix team? [Get in touch!](https://www.linkedin.com/in/morganmsk/)
