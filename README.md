@@ -16,7 +16,8 @@ Picture having an AI-powered writing companion available whenever you need it, r
 
 In an era where written communication is the backbone of virtually every endeavor, elevate your content with Linguix. Let it be your writing ally, your guardian against mundane writing tasks, and your bridge to innovative expression. Join the community of satisfied users who have harnessed the potential of Linguix to elevate their writing from ordinary to extraordinary.
 
-Read more at [linguix.com](https://linguix.com) and don't forget to check out our [blog](https://linguix.com/blog/).
+Get more via [Linguix Grammar Checker](https://linguix.com/grammar-check) and don't forget to install our browser extension [here](https://chrome.google.com/webstore/detail/grammar-checker-and-writi/ndgklmlnheedegipcohgcbjhhgddendc)
+
 
 # Jobs
 
